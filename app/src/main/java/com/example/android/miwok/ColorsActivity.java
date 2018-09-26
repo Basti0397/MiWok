@@ -18,7 +18,6 @@ public class ColorsActivity extends AppCompatActivity {
         @Override
         public void onCompletion(MediaPlayer mp) {
             releaseMediaPlayer();
-            //Hallo
         }
     };
 
